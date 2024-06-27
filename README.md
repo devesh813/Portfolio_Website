@@ -4,7 +4,7 @@
 
 
 Follow this link to see the project deployed on Vercel
-[deveshborkar.netlify.app](https://deveshborkar.netlify.app/)
+[deveshborkar.netlify.app](https://deveshborkar.netlify.app)
 
 
 # Note
